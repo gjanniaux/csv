@@ -1,0 +1,1563 @@
+ID	CODE	NAME
+1	02Q	Titan Airways
+2	04Q	Tradewind Aviation
+3	05Q	Comlux Aviation, AG
+4	06Q	Master Top Linhas Aereas Ltd.
+5	07Q	Flair Airlines Ltd.
+6	09Q	Swift Air, LLC
+7	0BQ	DCA
+8	0CQ	ACM AIR CHARTER GmbH
+9	0GQ	Inter Island Airways, d/b/a Inter Island Air
+10	0HQ	Polar Airlines de Mexico d/b/a Nova Air
+11	0J	JetClub AG
+12	0JQ	Vision Airlines
+13	0KQ	Mokulele Flight Services, Inc.
+14	0LQ	Metropix UK, LLP.
+15	0MQ	Multi-Aero, Inc. d/b/a Air Choice One
+16	0OQ	Open Skies
+17	0Q	Flying Service N.V.
+18	0QQ	TAG Aviation (UK) Ltd.
+19	0RQ	TAG Aviation Espana S.L.
+20	0TQ	Corporatejets, XXI
+21	0UQ	Comlux Malta, Ltd.
+22	0VQ	Ocean Sky (UK) Limited
+23	0WQ	Avjet Corporation
+24	0YQ	Comlux Malta Ltd.
+25	10Q	Swiss Air Ambulance
+26	12Q	Unijet
+27	13Q	Chartright Air Inc.
+28	14Q	London Air Services Limited
+29	15Q	Air Alsie A/S
+30	16	PSA Airlines Inc.
+31	17	Piedmont Airlines
+32	17Q	Albinati Aeronautics SA
+33	1AQ	Charter Air Transport, Inc.
+34	1BQ	Dynamic Airways, LLC
+35	1DQ	Island Airlines LLC
+36	1EQ	KaiserAir, Inc.
+37	1FQ	Alsek Air
+38	1HQ	International Jet Management GmbH
+39	1I	Sky Trek International Airlines
+40	1IQ	Jet link AG
+41	1JQ	Exec Direct Aviation Services Limited
+42	1LQ	Bertelsmann Aviation GmbH
+43	1MQ	Twin Cities Air Service LLC
+44	1NQ	JSC The 224th Flight Unit State Airlines
+45	1PQ	Makani Kai Air Charters
+46	1QQ	City Wings Inc dba Seaflight
+47	1RQ	Sun Air Express LLC dba Sun Air International
+48	1SQ	Star Marianas Air Inc.
+49	1TQ	Rhoades Aviation dba Transair
+50	1UQ	Gainjet Aviation SA
+51	2E	Smokey Bay Air Inc.
+52	2F	Frontier Flying Service
+53	2K	Aerolineas Galapagos S A Aerogal
+54	2M	Midway Express Airlines
+55	2O	Island Air Service
+56	2R	Regal Air
+57	2T	Canada 3000 Airlines Ltd.
+58	2U	Valley Air Express Inc.
+59	37	Zeal 320
+60	3C	Regions Air, Inc.
+61	3F	Pacific Airways, Inc.
+62	3M	Silver Airways
+63	3S	AeroLogic GmbH
+64	3U	Sichuan Airlines Co Ltd.
+65	4B	Olson Air Service
+66	4C	Aerovias de Intergracian Regional
+67	4E	Tanana Air Service
+68	4E (1)	British Airtours Limited
+69	4H	Belize Trans Air
+70	4M	LAN Argentina
+71	4M (1)	Lan Dominica
+72	4N	Air North
+73	4O	ABC Aerolineas SA de CV dba Interjet
+74	4R	Regent Air Corporation
+75	4S	Sol Air (Aero Hunduras)
+76	4S (1)	Conner Air Lines Inc.
+77	4T	Belair Airlines Ltd.
+78	4W	Warbelow
+79	4Y	Yute Air Aka Flight Alaska
+80	5B	Bellair Inc.
+81	5C	C.A.L Cargo Airlines
+82	5D	Aerolitoral
+83	5F	Arctic Circle Air Service
+84	5G	Skyservice Airlines, Inc.
+85	5G (1)	Queen Air
+86	5J	Private Jet Expeditions
+87	5L	Aerosur
+88	5V	Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo
+89	5X	United Parcel Service
+90	5Y	Atlas Air Inc.
+91	6A	Aviacsa Airlines
+92	6B	TUIfly Nordic A.B.
+93	6C	Cape Smythe Air Service
+94	6F	Laker Airways Inc.
+95	6H	Israir Airlines
+96	6P	Pacific East Air Inc.
+97	6R	Aerounion Aerotransporte de Carga Union SA de CV
+98	6U	Air Ukraine
+99	6Y	Nicaraguense De Aviacion Sa
+100	7B	Krasair
+101	7C	Jeju Air Co Ltd.
+102	7F	First Air
+103	7G	MK Airlines Ltd.
+104	7G (1)	Bellair Inc. (1)
+105	7H	Era Aviation
+106	7I	Insel Air International B V
+107	7M	Aeromonterrey S.A.
+108	7N	Inland Aviation Services
+109	7P	Apa International Air S.A.
+110	7Q	Pan American World Airways Dominicana
+111	7S	Arctic Transportation
+112	7S (1)	Skystar International Inc.
+113	7Z	Lb Limited
+114	8C	Air Transport International
+115	8D	Servant Air Inc.
+116	8E	Bering Air Inc.
+117	8F	Wilburs Inc.
+118	8J	Jetall Airways
+119	8L	Servicio Aereo Leo Lopez
+120	8N	Flagship Airlines Inc.
+121	8Q	Baker Aviation Inc.
+122	8R	Edelweiss Air Ag
+123	8V	Wright Air Service
+124	9E	Endeavor Air Inc.
+125	9J	Pacific Island Aviation
+126	9K	Cape Air
+127	9L	Colgan Air
+128	9M	Central Mountain Air
+129	9N	ANA & JP Express Co. Ltd.
+130	9R	Flagship Express Services
+131	9S	Southern Air Inc.
+132	9T	TravelspanGT, Inc. S.A.
+133	9V	Avior Airlines, C.A.
+134	9W	Jet Airways (India) Limited
+135	A0	Elysair d/b/a L'Avion
+136	A2	Cielos De Peru
+137	A4	Southern Wind Airlines
+138	A7	Air Comet S.A.
+139	A7 (1)	Air 21
+140	AA	American Airlines Inc.
+141	AAA	Associated Aviation Act.
+142	AAB	Antilles Air Boats Inc.
+143	AAE	AAA Airlines
+144	AAI	Audi Air Inc.
+145	AAL	Argosy Air Lines Inc.
+146	AAP	Armstrong Air Service Inc.
+147	AAQ	Advance Air Charters
+148	AAR	Altair Airlines Inc.
+149	AAT	Air Sunshine Inc.
+150	AAV	Alpine Air
+151	AAZ	Alaska Aeronautical Indust.
+152	AB	Air Berlin PLC and CO
+153	ABH	Air Bahia
+154	ABI	Airbama Incorporated
+155	ABO	Aeronaves Boringuena Inc.
+156	ABX	ABX Air, Inc.
+157	AC	Air Canada
+158	ACA	Alaska Central Airways Inc.
+159	ACD	Academy Airlines
+160	ACG	Air Cargo Express Inc.
+161	ACH	Island Airlines Hawaii Inc.
+162	ACI	AAA-Action Air Carrier Inc.
+163	ACJ	Atlantic Coast Jet Inc.
+164	ACK	Air Central Inc.
+165	ACL	Check-Air Inc.
+166	ACN	Alliance Airlines
+167	ACO	Air Cargo Enterprises Inc.
+168	ACP	Air Chaparral Inc.
+169	ACQ	Aeronautica De Cancun
+170	ACS	Alamo Commuter Airlines
+171	ACT	Air Central Inc. (1)
+172	ACW	Transwest Air Express
+173	AD	Avia Leasing Company
+174	ADB	Antonov Company
+175	ADQ	Aeronaves Del Peru
+176	ADR	Adirondack Airlines
+177	ADV	Advantage Airlines
+178	AE	Air Europe Limited
+179	AEC	Astec Air East Inc.
+180	AED	Air East Of Delaware Inc.
+181	AEF	Aero Freight
+182	AEO	Aero Coach
+183	AEQ	Air Caravane Inc.
+184	AEX	Air Excursions LLC (1)
+185	AF	Compagnie Nat'l Air France
+186	AFA	American Flag Airlines Inc.
+187	AFE	Air Florida Express
+188	AFG	American Flight Group
+189	AFQ	Aero B Venezuela C.A.
+190	AFS	Arcata Flying Service
+191	AGA	Air Cargo America Inc.
+192	AGQ	Argo S. A.
+193	AHA	Air Alpha
+194	AHC	Air Hawaii
+195	AHQ	Air National
+196	AI	National Aviation Company of India Limited d/b/a Air India
+197	AIA	All Island Air
+198	AIC	Air Caribbean
+199	AIE	Air Express Inc.
+200	AIG	Airgo Inc.
+201	AIK	Air Ketchum Idaho Inc.
+202	AIM	Air Mont. Inc.
+203	AIN	Air Indiana
+204	AIQ	Norontair
+205	AIT	Airways International
+206	AIY	Alliance Air
+207	AJ	Air Micronesia Inc.
+208	AJQ	Aerodynamics Inc.
+209	AKQ	Airmark Airlines Inc.
+210	AL	Skyway Airlines
+211	ALD	Allied Airlines
+212	ALE	Air-Lift Associates Inc.
+213	ALI	Brandt Air
+214	ALK	Air Link Airways
+215	ALL	All Seasons Air Pacific
+216	ALQ	Alberta Northern Airlines
+217	ALS	Air L.A.
+218	ALT	Altus Airlines
+219	ALU	Aleutian Air
+220	ALX	Atlanta Express
+221	AM	Aeromexico
+222	AMA	North American Airlines Inc.
+223	AME	Americair Inc.
+224	AMI	American Inter-Island Inc.
+225	AMQ	Ameristar Air Cargo
+226	AMR	AvAir
+227	AMT	American Air Transport
+228	ANB	Air Nebraska Inc.
+229	ANC	Atlantic Air
+230	AND	Southcentral Air Inc.
+231	ANI	Dash Air Corporation
+232	ANM	Airways Of New Mexico Inc.
+233	ANO	Metro Air Northeast Vermont
+234	ANT	Air North/Nenana
+235	AO	Aviacion Y Comercio S.A.
+236	AOI	Trans New York
+237	AON	Action Airlines
+238	AOQ	Aerovias S.A.
+239	AOR	Air New Orleans
+240	APE	Air Cape
+241	APH	Alpha Air
+242	API	Arizona Pacific Inc.
+243	APL	Appalachian Flying Service
+244	APN	Aspen Airways Inc.
+245	APQ	Alas De Transporte International
+246	APS	Air Spirit Inc.
+247	APY	Air Polynesia Inc.
+248	AQQ	Air Charter (Safa)
+249	AR	Aerolineas Argentinas
+250	ARA	Air Resorts Airlines
+251	ARB	Air Caribe International
+252	ARD	Airlift International
+253	ARI	Arizona Aero Corp.
+254	ARM	Airmarc Airlines Inc.
+255	ARN	Arnold Aviation
+256	ARO	Air Oregon
+257	ARP	Airspur Helicopters Inc.
+258	ARQ	Aerovias Colombianas Arca
+259	ARR	Arrowhead Airways Inc.
+260	ARS	Air Sedona
+261	ARZ	Arizona Airways
+262	AS	Alaska Airlines Inc.
+263	ASC	Air South Inc.
+264	ASD	Amistad Airlines
+265	ASH	Air South
+266	ASI	Alpine Air Services Inc.
+267	ASN	Air Casino
+268	ASP	Asap Air Inc.
+269	ASQ	Aerosur (1)
+270	ASR	Astor Air
+271	AST	Astro Airways
+272	ASU	Air South (1)
+273	ASW	Sunrise Airlines Inc.
+274	AT	Royal Air Maroc
+275	ATH	Air Southeast
+276	ATN	Air Atlantic Airlines Inc.
+277	ATO	Pacific National Airways
+278	ATQ	Aero Tranportes Panamenos
+279	ATS	Atlantis Airlines Inc.
+280	ATT	Aerotransit Inc.
+281	ATX	Air Carolina
+282	AUX	Austin Express Inc.
+283	AV	Aerovias Nacl De Colombia
+284	AVA	Air Vectors Airways
+285	AVC	Av Center Inc.
+286	AVG	Airvantage
+287	AVI	Aero Virgin Islands Corp.
+288	AVL	Aviation Sales
+289	AVQ	Aero Laguna S.A. De C.V.
+290	AVR	Air Vermont Inc.
+291	AVS	Aviation Services
+292	AVZ	Southern Jersey Airways
+293	AWA	Air West Airlines
+294	AWQ	Aermediterranea S.P.A.
+295	AX	Trans States Airlines
+296	AXQ	Aeron International Airlines Inc.
+297	AY	Finnair Oy
+298	AYQ	Aerodan S.A. De C.V.
+299	AZ	Compagnia Aerea Italiana
+300	AZP	Arizona Pacific Airways
+301	AZQ	Anglo Airlines Ltd.
+302	B6	JetBlue Airways
+303	BA	British Airways Plc
+304	BAA	Aero International Airlines
+305	BAC	Business Aircraft Corp.
+306	BAH	Brennan & Hargreaves Inc.
+307	BAK	Bankair Inc.
+308	BAN	Bangor International Air
+309	BAQ	Aero Rentas De Coahuila S.A. De C.V.
+310	BAR	Bard-Air Corp.
+311	BAT	West Penn Commuter
+312	BAY	Burlington Aeroplane Co.
+313	BBQ	Balair Ag
+314	BC	Skymark Airlines Inc.
+315	BCA	Baja Cortez Airlines
+316	BCQ	Bradley Air Services Ltd.
+317	BD	British Midland Airways Ltd.
+318	BDE	Jet Express
+319	BDQ	Aerotaxis De Aguascalientes S.A. De C.V.
+320	BE	Braniff International Airlines Inc.
+321	BEA	Business Express Airlines
+322	BEN	Bennington Aviation Inc.
+323	BEQ	Air Belgium
+324	BES	Aeroservices Executive
+325	BEY	Beyer Aviation
+326	BF	Markair Inc.
+327	BFG	Million Air
+328	BFQ	Buffalo Airways Inc.
+329	BG	Biman Bangladesh Airlines
+330	BGQ	Airbus Transport Internat'l
+331	BHK	Blackhawk Airways Inc.
+332	BHO	Bighorn Airways Inc.
+333	BHQ	Turks Air Ltd. (1)
+334	BIA	Big Island Air
+335	BIQ	Servicios Aeronauticos Z S.A. De C.V.
+336	BIR	Birchwood Air Service
+337	BJQ	Taxirey S.A. De C.V.
+338	BLQ	Air Bvi Limited
+339	BM	Belize Air International Ltd.
+340	BMT	Bremerton Aviation Inc.
+341	BN	Britannia Airways GmbH
+342	BN (1)	Braniff Inc.
+343	BNQ	NetJets Large Aircraft Company L.L.C.
+344	BOA	Boise Air Service
+345	BOI	Bo-S-Aire Airlines Inc.
+346	BOQ	Transp. Aereos Bolivianos
+347	BQ	Aeromar C. Por A.
+348	BR	Eva Airways Corporation
+349	BR (1)	Cal Air International Ltd.
+350	BRK	Barken International
+351	BRO	Brower Airways Inc.
+352	BRW	Barrow Air
+353	BTQ	Brasair Transportes Aereos
+354	BUH	Business Helicopters
+355	BUQ	Wrangler Aviation Inc.
+356	BUQ (1)	Blue Bell Inc.
+357	BUR	Burlington Airways Inc.
+358	BW	Caribbean Airlines Limited
+359	BXQ	Spantax S. A.
+360	BY	Britannia Airways Ltd.
+361	BYA	Bay Air
+362	BZQ	Abaco Air, Ltd.
+363	C5	Commutair Aka Champlain Enterprises, Inc.
+364	C6	Canjet Airlines
+365	C8	Cargolux Italia SpA
+366	C8 (1)	Chicago Express Airlines
+367	CA	Air China
+368	CAC	Coleman Air Transport
+369	CAF	California Seaboard
+370	CAI	Crawford Aviation Inc.
+371	CAM	C & M Airlines
+372	CAP	Metro Air Northeast N Y
+373	CAQ	Challenge Air Luftverkehrs GmbH
+374	CAT	Catalina Airlines Inc.
+375	CAV	Air Virginia
+376	CAZ	CAT Aviation
+377	CB	Air One Inc.
+378	CBA	Carriba Air Inc.
+379	CC	Air Atlanta Icelandic
+380	CC (1)	Air Atlanta Inc.
+381	CCA	Cityhop
+382	CCO	Chester County Aviation
+383	CDQ	Kitty Hawk International
+384	CEN	Cen-Tex Airlines Inc.
+385	CEQ	All Canada Express
+386	CET	Century Airlines (Cal)
+387	CF	Compan. De Aviacion Faucett
+388	CGA	Chicago Airlines
+389	CGL	Viking International Airlines Inc.
+390	CGO	Chicago Air Taxi
+391	CH	Bemidji Airlines
+392	CHD	Chandler Flyer
+393	CHE	Charter Airlines
+394	CHF	Hammonds Commuter Air Serv.
+395	CHI	Chitina Air Service
+396	CHL	Channel Flying Inc.
+397	CHO	Choi Aviation Inc.
+398	CHS	Christman Air System
+399	CHT	Charter One
+400	CI	China Airlines Ltd.
+401	CIQ	A/S Conair
+402	CIS	Cal Sierra Airlines
+403	CJ	Colgan Airways Inc.
+404	CK	China Cargo Airline
+405	CKI	Inlet Airlines
+406	CL	Capitol International Inc.
+407	CLB	Columbia Pacific Airlines
+408	CLD	Hawaii Pacific Helicopters
+409	CLF	California Air Shuttle
+410	CLQ	Aero Transcolombiana
+411	CM	Compania Panamena (Copa)
+412	CMB	Combs Airways Inc.
+413	CMD	Command Airways Inc.
+414	CMQ	Servicio De Carga Aerea Sa
+415	CMR	Commuter Airlines (Ca)
+416	CNN	Centennial Airlines
+417	CO	Continental Air Lines Inc.
+418	COB	Cotton Belt Aviation Inc.
+419	COC	Cochise Airlines Inc.
+420	COK	Coker Aviation Inc.
+421	COL	Presidential Express
+422	COM	Commutair
+423	COR	Coral Air Inc.
+424	COS	Cosmopolitan Comm. Airline
+425	COT	Southeastern Commuter
+426	COU	Courtesy Air Service Inc.
+427	CP	Compass Airlines
+428	CP (1)	Canadian Airlines International Ltd.
+429	CPA	Capitol Air Lines
+430	CPC	Coastal Plains Commuter Inc.
+431	CPQ	Capitol Air Express Inc.
+432	CPT	Capitol Air
+433	CQI	Conquest Airline Corp.
+434	CRA	Commuter Airlines
+435	CRB	Caribair
+436	CRE	Caribbean Express Inc.
+437	CRH	Cresent Medivac
+438	CRN	Crown Aviaiton Inc.
+439	CRO	Crown Airways Inc.
+440	CRP	Corporate Air
+441	CRT	Crested Butte Air Service
+442	CRV	Acropolis Aviation Ltd.
+443	CS	Continental Micronesia
+444	CSA	Casino Airlines
+445	CSK	Catskill Airways Inc.
+446	CSL	Central States Air Lines
+447	CSM	Chisum Flying Service
+448	CSN	Casino Airlines (1)
+449	CSQ	Celtic Tech Jet Ltd.
+450	CTA	Century Airlines
+451	CTH	Cothron Aviation
+452	CTL	Coastal Air Transport
+453	CTQ	Custom Air Transport
+454	CTR	Chartair
+455	CUQ	Caicos Caribbean Airways
+456	CUS	Custom Air Service
+457	CV	Cargolux Airlines International S.A
+458	CVA	Catalina-Vegas Airlines
+459	CVQ	Caraven S.A.
+460	CW	Air Marshall Islands Inc.
+461	CWQ	Canadian Aviation Express
+462	CX	Cathay Pacific Airways Ltd.
+463	CYQ	Corse Air International
+464	CZ	China Southern Airlines
+465	CZ (1)	Cascade Airways Inc.
+466	CZQ	Aviation Concepts
+467	DA	Dan Air Services
+468	DAN	Danbury Airlines
+469	DAU	Dauphin Island Airways
+470	DC	Caribbean Air Cargo Co Ltd.
+471	DE	Condor Flugdienst
+472	DEA	Downeast Airlines Inc.
+473	DEC	Decatur Aviation
+474	DFS	Downeast Flying Service
+475	DH	Independence Air
+476	DH (1)	Discovery Airways Inc.
+477	DHL	DHL Airlines Inc.
+478	DHQ	DHL Aero Expresso
+479	DIA	Drummond Island Air
+480	DIC	Dickman Aviation Services
+481	DIR	Northern Star
+482	DL	Delta Air Lines Inc.
+483	DM	Maersk Air I/S
+484	DO	Compania Dominicana De Avia
+485	DOL	Dolphin Airways Inc.
+486	DOQ	Aerolineas Dominicanas S A
+487	DPA	Desert Pacific Airways
+488	DPI	Desert Pacific Airlines Inc.
+489	DQQ	Caribwest Airways Ltd.
+490	DSA	Desert Sun Airlines
+491	DST	Desert Airlines
+492	DUL	Dulles Express
+493	DUZ	Summit Airlines Inc.
+494	DVO	Devoe Airlines
+495	DWN	Dawn Air
+496	DXA	Dolphin Express
+497	DY	Norwegian Air Shuttle ASA
+498	E0	EOS Airlines, Inc.
+499	E7	Estafeta Carga Aereas
+500	E72	European Aviation Air Charter
+501	E8	USAfrica Airways Inc.
+502	E9	Boston-Maine Airways
+503	EA	Eastern Air Lines Inc.
+504	EAI	Executive Aviation Inc.
+505	EAQ	Executive Airlines, SL
+506	EAS	Eastern Caribbean Airways
+507	EAT	Eastman Airways Inc.
+508	EBQ	Execaire Aviation Ltd.
+509	ECA	Eagle Airlines (1)
+510	ECI	Eastern Carolina Aviation
+511	ECL	Eclipse Airlines
+512	ECQ	Trans American Charter
+513	ECR	East Coast Airways
+514	ED	Andes
+515	EDE	Ede Aire
+516	EET	Exec Express II
+517	EEX	Exec Express
+518	EEZ	Eagle Aviation Inc.
+519	EFA	Executive Four Winds
+520	EFQ	Trans Europ. Airways France
+521	EGA	Eagle Airline
+522	EGJ	Eagle Jet Charter
+523	EGL	Eagle Commuter Airlines Inc.
+524	EH	Saeta Airlines
+525	EHA	East Hampton Aire Inc.
+526	EI	Aer Lingus Plc
+527	EIA	East. Indiana Aviation Sale
+528	EJQ	Aeroejecutivos C.A.
+529	EK	Emirates
+530	EKA	Air Pacific Inc.
+531	ELL	Ellis Air Taxi Inc.
+532	EM	Empire Airlines Inc.
+533	EMA	Emerald Airlines
+534	EME	Metro Express
+535	EMP	Empire Airlines Inc. (2)
+536	ENT	Enterprise Airlines Inc.
+537	EOQ	Aeroservicios Ecuatorianos
+538	EP	All Star Airlines Inc.
+539	EQ	Tame Linea Aerea del Ecuador Tme EP
+540	ER	Astar USA, LLC
+541	ERI	Erie Airways Inc.
+542	ERO	Empire Aero Service
+543	ERQ	Aero Trades (Western) Ltd.
+544	ESQ	Seagreen Air Transport
+545	ET	Ethiopian Airlines
+546	EU	Ecuatoriana De Aviacion
+547	EUQ	Air Atlanta Europe
+548	EV	ExpressJet Airlines Inc.
+549	EVA	Evanston Aviation
+550	EWA	Rio Grande Air
+551	EXA	Columbia Pacific Airlines (1)
+552	EXC	Hapag-Lloyd Executive GmbH
+553	EXC (1)	Executive Charter
+554	EXP	Express Airlines II
+555	EXQ	Export Air Del Peru S.A.
+556	EXR	Executive Transport
+557	EY	Etihad Airways
+558	EZ	Evergreen International Inc.
+559	F2	Omega Air Holdings d/b/a Focus Air
+560	F8	Freedom Airlines d/b/a HP Expr
+561	F9	Frontier Airlines Inc.
+562	FAA	Falwell Aviation Inc.
+563	FAC	Falcon Airways Inc.
+564	FAQ	Fast Air Carrier Ltd. (1)
+565	FAR	Federal Armored Service Inc.
+566	FB	Translift Airways Limited
+567	FBI	Young Flying Service
+568	FCA	Southern Airlines Inc.
+569	FCQ	Falcon Air Express
+570	FD	Air Puerto Rico Airlines
+571	FDA	Florida Airlines Inc.
+572	FDM	Freedom Airlines Inc.
+573	FDQ	Great American Airways
+574	FE	Primaris Airlines Inc.
+575	FF	Tower Air Inc.
+576	FFQ	Five Star Airlines
+577	FH	Frontier Horizon Inc.
+578	FI	Icelandair
+579	FJ	Air Pacific Ltd.
+580	FJ (1)	Air Pacific Ltd. (1)
+581	FL	AirTran Airways Corporation
+582	FL (1)	Frontier Airlines Inc. (1)
+583	FLA	Florida Air
+584	FLM	Flamenco Airways Inc.
+585	FLR	Flirite Inc.
+586	FNQ	Fine Airlines Inc.
+587	FOR	Ford-Aire Inc.
+588	FOS	Foster Aviation
+589	FP	TAG Aviation S.A.
+590	FQ	Air Aruba
+591	FRA	Freedom Air
+592	FRS	Four Star Aviation
+593	FRT	Frontier Commuter
+594	FRW	Farwest Airlines
+595	FS	Serv De Trans Aereos Fuegui
+596	FSA	F.S. Air Service
+597	FT	Flying Tiger Line Inc.
+598	FTI	Southern Airways
+599	FVA	Skycraft Inc.
+600	FW	Skybus Inc.
+601	FWA	Far West Airlines
+602	FX	Federal Express Corporation
+603	FYB	Flying Boat
+604	G3	Aerochago S.A.
+605	G4	Allegiant Air
+606	G7	GoJet Airlines, LLC d/b/a United Express
+607	GA	P.T. Garuda Indonesian Arwy
+608	GAL	Galena Air Service
+609	GAQ	Galaxy Airlines Inc.
+610	GAS	General Aviation Inc.
+611	GAT	Gulf Air Taxi
+612	GAV	Gromer Aviation Inc.
+613	GBA	Central States Airline
+614	GBQ	G5 Executive Ag
+615	GCA	Golden Carriage Aire
+616	GCH	Grand Canyon Helicopters
+617	GCQ	General Air Cargo
+618	GCS	Midway Commuter
+619	GD	Transp. Aereos Ejecutivos
+620	GDW	Golden West Airlines Inc.
+621	GE	Lufthansa Cargo Airlines
+622	GF	Gulf Air Company
+623	GF (1)	Gulf Air Transport Inc.
+624	GFC	Gulf Flite Center
+625	GFQ	Gulf And Caribbean Cargo
+626	GG	Cargo 360, Inc.
+627	GG (1)	Tropical Airways Inc.
+628	GG (2)	Grenada Airways Ltd.
+629	GH	Ghana Airways Corporation
+630	GHA	Green Hills Aviation Ltd.
+631	GIQ	Global International Airways Corp.
+632	GJ	Eurofly S.p.A
+633	GJ (1)	Mexicargo
+634	GKQ	Laker Airways
+635	GL	Miami Air International
+636	GLW	Golden West Airlines Co.
+637	GM	Air America
+638	GMA	Green Mountain Airlines Ltd.
+639	GOF	Copper State Airlines
+640	GPA	GP Express Airlines
+641	GQ	Big Sky Airlines Inc.
+642	GR	Gemini Air Cargo Airways
+643	GRA	Gorda Aero Service
+644	GRD	Grand Canyon Airlines
+645	GRO	Isle Royale Seaplane Serv.
+646	GS	Air Foyle Limited
+647	GSA	Golden Gate Airlines Inc.
+648	GSC	GCS Air Service
+649	GSL	Golden South Airlines Inc.
+650	GSQ	Global Supply System
+651	GST	Golden State Airlines
+652	GU	Aviateca
+653	GUL	Gull Air Inc.
+654	GUN	Gunnel Aviation Inc.
+655	GV	Grant Aviation
+656	GW	Central American Airlines
+657	GWA	Great Western Aviation
+658	GWE	Ross Aviation Inc.
+659	GX	Air Ontario Limited
+660	GY	Guyana Airways Corporation
+661	H2	City Bird
+662	H5	Magadan Airlines
+663	H6	Hageland Aviation Service
+664	HA	Hawaiian Airlines Inc.
+665	HAQ	Hapag Lloyd Flug.
+666	HAR	Friendship Air Alaska
+667	HB	Homer Air
+668	HB (1)	Air Club International
+669	HBQ	Harris Air Services
+670	HCQ	Av Atlantic
+671	HEL	Helitrans
+672	HEP	Hub Express
+673	HER	Markair Express
+674	HET	Helitac Aviation
+675	HEU	Heussler Air Service Corp
+676	HFQ	Haiti Air Freight Intl
+677	HFS	Hensley Flying Service Inc.
+678	HIQ	Business Flights Ltd.
+679	HJ	Air Haiti S. A.
+680	HK	Time Air Sweden Ab
+681	HLQ	Heavylift Cargo Airlines Lt
+682	HMZ	Long Island Airlines
+683	HNS	Haines Airways
+684	HOL	Holiday Airlines Inc.
+685	HOQ	Holidair Airways
+686	HOR	Iowa Airlines
+687	HP	America West Airlines Inc. (Merged with US Airways 9/05. Stopped reporting 10/07.)
+688	HPZ	Pacific Coast Airlines
+689	HQ	Harmony Airways
+690	HQ (1)	Business Express
+691	HQQ	Harlequin Air Corporation
+692	HRA	Trans-National Airlines Haw
+693	HRG	Heritage Airlines
+694	HRQ	Tar Airlines
+695	HRZ	Allegheny Airlines
+696	HSV	Harbor Air Service
+697	HSZ	Scenic Airlines Inc.
+698	HU	Hainan Airlines Company Limited
+699	HUB	Skystream Airlines
+700	HVQ	Transavia Holland B. V.
+701	HWK	Hawking Corporation
+702	HX	Guy-America Airways Inc.
+703	HY	Uzbekistan Airways
+704	HYA	Hyannis Aviation
+705	IA	Iraqi Airways
+706	IB	Iberia Air Lines Of Spain
+707	ICF	Iowa City Flying Service
+708	ICH	Island Air Charters
+709	ICQ	Iscargo Hf
+710	IDQ	Intl Air Service Co. Ltd.
+711	IEX	Island Air Express
+712	IG	Meridiana S.p.A
+713	IGA	Global Jet Austria, GmbH
+714	III	Idee Industries Inc.
+715	IJ	Great Wall Airlines Company Limited
+716	IKQ	Tradewinds Airways Ltd.
+717	IMP	Imperial Airlines Inc.
+718	IN	Aerlinte Eireann Teoranta
+719	INA	Inland Empire Airlines Inc.
+720	IND	Indiana Airways Inc. (Pa)
+721	INQ	Independent Air Inc.
+722	IOW	Iowa Airways
+723	IPI	Indo-Pacific International
+724	IPQ	Aruba Cargo
+725	IPS	Island Express
+726	IR	Iran National Airlines Corp
+727	IRQ	Interstate Airlines Inc.
+728	ISL	Island Airlines
+729	ITQ	Interamericana De Aviacion
+730	IW	Air Liberte Aka Aom Minerve
+731	IW (1)	Best Airlines Inc.
+732	IXQ	Inair
+733	J5	Alaska Seaplane Service
+734	J6	Larrys Flying Service
+735	J7	Valujet Airlines Inc.
+736	JAG	JetAlliance Flugbetriebs d/b/a JAF Airservice
+737	JAM	Sunbelt Airlines Inc.
+738	JAQ	Jamaica Air Freighters
+739	JB	Helijet International Inc.
+740	JCM	Air Chico
+741	JCQ	Jet Connection Businessflight Ag
+742	JCZ	Rocky Mountain Airways Inc.
+743	JD	Japan Air System Co. Ltd.
+744	JER	Jer-Don Air
+745	JF	L.A.B. Flying Service Inc.
+746	JI	Jade Cargo International
+747	JI (1)	Midway Airlines Inc.
+748	JIQ	Jet Fleet Intl. Airlines
+749	JJ	Transportes Aeros Meridiona
+750	JK	Spanair S.A.
+751	JK (1)	Sunworld International Airways Inc.
+752	JKQ	Express One International Inc.
+753	JL	Japan Air Lines Co. Ltd.
+754	JM	Air Jamaica Limited
+755	JMA	Jim Air Inc.
+756	JN	Excel Airways
+757	JO	Jalways Co. Ltd.
+758	JQ	Jetstar Airways Pty Limited
+759	JR	Aero California
+760	JTA	Jetaire Airlines Inc.
+761	JU	Yugoslav Airlines
+762	JW	Arrow Air Inc.
+763	JX	Southeast Airlines
+764	JX (1)	Jes Air Ltd.
+765	JXQ	Allarco Developments Ltd.
+766	JZ	Japan Air Charter Co. Ltd.
+767	K3	Venture Travel LLC d/b/a Taquan Air Service
+768	K5	SeaPort Airlines, Inc. d/b/a Wings of Alaska
+769	K7	Arizona Express
+770	K8	Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines
+771	K8 (1)	Dutch Caribbean Airlines
+772	KA	Hong Kong Dragonair
+773	KAH	Kenmore Air Harbor
+774	KAI	Knight Airlines Inc.
+775	KAQ	Kalitta Air LLC
+776	KAT	Katmai Air
+777	KB	Haiti Air
+778	KE	Korean Air Lines Co. Ltd.
+779	KEA	Keene Airways
+780	KEE	Key Airlines
+781	KET	Ketchikan Air Service
+782	KFS	King Flying Service
+783	KH	Aloha Air Cargo
+784	KI	Time Air Ltd.
+785	KIN	Golden Pacific Airlines
+786	KKQ	Transmeridian Air Cargo Ltd.
+787	KL	Klm Royal Dutch Airlines
+788	KLQ	Kalitta Charters II
+789	KM	Air Malta
+790	KN	Morris Air Corporation
+791	KO	Alaska Central Express
+792	KOD	Kodiak Airways Inc.
+793	KP	Kiwi International
+794	KR	Kitty Hawk Aircargo
+795	KR (1)	Kar-Air Oy
+796	KS	Peninsula Airways Inc.
+797	KTQ	Turks Air Ltd.
+798	KU	Kuwait Airways Corp.
+799	KW	Carnival Air Lines Inc.
+800	KWQ	Kelowna Flightcraft Air Cha
+801	KWZ	Crown Air
+802	KX	Cayman Airways Limited
+803	KXZ	Chaparral Airlines Inc.
+804	KZ	Nippon Cargo Airlines
+805	L2	Lynden Air Cargo Airlines
+806	L3	Lynx Aviation d/b/a Frontier Airlines
+807	L7	Lan Colombia
+808	LA	Lan-Chile Airlines
+809	LAA	La Skycab Airline
+810	LAH	La Helicopter
+811	LAN	Lancer Aviation Inc.
+812	LAP	Lapsa
+813	LAR	Laredo Air
+814	LAS	Lake Union Air Service
+815	LAW	Lawrence Aviation
+816	LB	Lloyd Aereo Boliviano S. A.
+817	LBQ	Millon Air Inc.
+818	LC	Varig Logistica S/A
+819	LC (1)	Lineas Aereas Del Caribe
+820	LC (2)	Legend Airlines
+821	LCQ	Latcr
+822	LCT	Lake Coastal
+823	LEQ	Le Point Air
+824	LEX	L'Express
+825	LF	Jettrain Airlines
+826	LG	Luxair
+827	LGQ	Lineas Aereas Allegro
+828	LH	Lufthansa German Airlines
+829	LHA	Havasu Airlines
+830	LIQ	Liat (1974) Limited
+831	LJ	Jin Air Co Ltd.
+832	LKN	Loken Aviation
+833	LLA	Lakeland Aviation
+834	LNQ	Aerolineas Latinas
+835	LO	Polskie Linie Lotnicze
+836	LOQ	Lorair Ltd.
+837	LOS	Aero Commuter
+838	LP	Lan Peru Airlines
+839	LP (1)	The Hawaii Express Inc.
+840	LR	Lacsa
+841	LRQ	Air Liberte
+842	LSQ	Lineas Aereas Suramerican
+843	LSZ	Alaska Island Air Inc.
+844	LT	Luftransport-Unternehmen
+845	LU	Air Atlantic Dominicana
+846	LUQ	Lineas Aereas La-Tur Sa
+847	LVA	Las Vegas Airlines
+848	LW	Pacific Wings Airlines
+849	LX	Swiss International Airlines
+850	LXQ	Translux Intl Airlines
+851	LY	El Al Israel Airlines Ltd.
+852	LZ	Balkan Bulgarian Airlines
+853	LZQ	Leisure International Airways Ltd.
+854	M3	ABSA-Aerolinhas Brasileiras
+855	M6	Amerijet International
+856	M7	Aerotransportes Mas De Crga
+857	MA	Malev Hungarian Airlines
+858	MAA	Maui Airlines
+859	MAC	Mackey International Inc.
+860	MAE	Mid-Atlantic Exp. Airlines
+861	MAG	Magum Airlines
+862	MAI	The Maui Commuter
+863	MAQ	Millardair Limited
+864	MAR	Marshall's Air Inc.
+865	MAV	Maverick Airways
+866	MAX	Maxair Inc.
+867	MB	Samoa Airlines Inc.
+868	MC	Transtar Airlines Corp.
+869	MCO	Mid Continental Airlines In
+870	MDC	Midcontinent Airlines
+871	MDU	Metro Airlines
+872	ME	Middle East Airlines S.A.L.
+873	MEA	Manhattan Express
+874	MET	Metroplex Airlines
+875	MEX	Metro Express 11
+876	MG	Champion Air
+877	MGQ	Montana Austria Flugetrieb
+878	MH	Malaysian Airline System
+879	MHK	Mohawk Airlines
+880	MHO	Mahalo Air
+881	MIN	Minuteman Aviation Inc.
+882	MIS	Midstate Airlines Inc.
+883	MIY	Midway Aviation Inc.
+884	MJ	Lapa-Lineas Aereas Privadas
+885	MKQ	Airmark Corporation
+886	ML	Aero Costa Rica
+887	ML (1)	Midway Airlines Inc. (1)
+888	MLL	Miller Air Transportersinc
+889	MLX	Merlin Express
+890	MM	Euro Atlantic Airways
+891	MM (1)	Sociedad Aeronautica De Med
+892	MMH	Ocean Airways Inc.
+893	MNA	M & N Aviation
+894	MNZ	Cumberland Airlines
+895	MOQ	Morningstar Air Express
+896	MP	Martinair Holland N.V.
+897	MPA	Mid Pacific Airlines Inc.
+898	MPC	Mid Pacific Air Corp.
+899	MQ	American Eagle Airlines Inc.
+900	MRC	Marco Island Airways Inc.
+901	MRQ	National Air Cargo Group, Inc. d/b/a Murray Air
+902	MRR	Merrimack Aviation Inc.
+903	MS	Egyptair
+904	MST	Midwest Aviation
+905	MT	Thomas Cook Airlines Uk Ltd.
+906	MT (1)	Flying Colours Airlines Ltd.
+907	MTA	Arkansas Traveler Airline
+908	MTR	Metroflight Airlines
+909	MTV	Mst Aviation
+910	MTX	Mountain Air Express
+911	MU	China Eastern Airlines
+912	MU (1)	Mcclain Airlines Inc.
+913	MUA	Manu'a Air Transport
+914	MUQ	Aerolineas Mundo
+915	MVA	Mississippi Valley Airlines
+916	MWA	Mountain West Airlines
+917	MX	Compania Mexicana De Aviaci
+918	MY	MAXjet
+919	MYQ	Lineas Aereas Mayas (Lamsa)
+920	MZ	P.N. Merpati Nusantara Air.
+921	N5	Skagway Air Service
+922	N5 (1)	Nations Air Express Inc.
+923	N6	Aero Continente
+924	N7	National Airlines
+925	NA	North American Airlines
+926	NAC	National Air Commuter Inc.
+927	NAP	Npa Inc.
+928	NAQ	Nationair
+929	NAS	Nasville Eagle
+930	NAT	National Air
+931	NB	Sterling Cargo
+932	NBQ	Sterling Airways A/S
+933	NC	Northern Air Cargo Inc.
+934	NCA	National Commuter Airlines
+935	NCE	Northcoast Executive
+936	ND	Intair
+937	NEB	New Born Wings Inc.
+938	NEC	Nor East Commuter Airlines
+939	NEQ	North East Cargo Airlines
+940	NER	Northeast Express Regional (1)
+941	NET	Nacnet
+942	NEV	Nevada Airlines
+943	NEW	New England Airlines Inc.
+944	NEX	Northeast Express Regional
+945	NFA	National Florida Airlines
+946	NFQ	North Cariboo Flying Serv.
+947	NG	Lauda Air Luftfahrt Ag
+948	NGL	Northern Eagle Airways Inc.
+949	NH	All Nippon Airways Co.
+950	NHA	Newair Flight Inc.
+951	NI	Lanica
+952	NI (1)	American International Airways Inc.
+953	NJ	Vanguard Airlines Inc.
+954	NJA	N. J. Merrimack Airlines
+955	NJE	NetJets Transportes Aereos, S.A.
+956	NK	Spirit Air Lines
+957	NKQ	Norcanair
+958	NLQ	Nolinor Aviation
+959	NN	Northward Airlines Ltd.
+960	NOQ	Novair Airlines Ab
+961	NPA	North Pacific Airlines Inc.
+962	NPT	E. J. A. Newport Inc.
+963	NQ	Air Japan Co
+964	NRN	Northern Airlines Inc.
+965	NSQ	North Coast Air Services
+966	NTH	Northaire
+967	NTQ	National Aviation Consult.
+968	NUM	Lake State Airways
+969	NUQ	Air Niugini
+970	NVQ	Novair International Airways Ltd.
+971	NVX	Nevis Express
+972	NW	Northwest Airlines Inc.
+973	NWQ	N. W. Territorial Airways
+974	NWS	Northwest Seaplanes
+975	NXQ	North Vancouver Air
+976	NY	New York Air Inc.
+977	NYH	New York Helicopter Corp.
+978	NZ	Air New Zealand
+979	OA	Olympic Airways
+980	OAK	Harbor Airlines Inc.
+981	OB	Oasis International Airlines S.A.
+982	OC	Air California Inc.
+983	OCR	Ocean Reef Airways Inc.
+984	OD	Emerald Airlines Inc.
+985	OD (1)	Aerocondor
+986	OE	Westair Airlines Inc.
+987	OF	Air Finland Ltd.
+988	OFF	Offshore Logistics
+989	OH	Comair Inc.
+990	OHA	Omaha Aviation
+991	OHZ	Caribbean Air Services Inc.
+992	OI	Prestige Airways
+993	OIZ	Corporate Air Inc.
+994	OJ	Fly Jamaica Airways Limited
+995	OK	Czech Airlines
+996	OMH	Omniflight Helicopters
+997	OMI	Omniflight Airways
+998	OMK	Omak Aviation Airlines
+999	OMN	Omni Pacific Airline
+1000	OMQ	Quassar De Mexico
+1001	ON	Air Nauru
+1002	ONQ	Nunasi-Central Airlines Ltd.
+1003	OO	SkyWest Airlines Inc.
+1004	OOZ	Sun Aire Lines
+1005	OP	Flying Boat Inc.
+1006	OP (1)	Air Panama Internacional
+1007	OPQ	Orion Air
+1008	OR	TUI Airlines Nederland B.V.
+1009	ORI	Orion Air Inc.
+1010	OS	Austrian Airlines
+1011	OTT	Otter Air
+1012	OV	Aeromaritime
+1013	OW	Executive Airlines
+1014	OWQ	Ontario Worldair Limited
+1015	OWS	Air Kentucky Air Lines
+1016	OZ	Asiana Airlines Inc.
+1017	OZ (1)	Ozark Air Lines Inc. (1)
+1018	OZA	Ozark Air Lines Inc.
+1019	P9	Pro Air Inc.
+1020	PA	Florida Coastal Airlines
+1021	PA (1)	Pan American World Airways (1)
+1022	PA (2)	Pan American World Airways
+1023	PAI	Permian Airways Inc.
+1024	PAQ	Patriot Airlines Inc.
+1025	PAT	Panorama Air Tours
+1026	PBA	Provincetown Boston
+1027	PBQ	Privatair
+1028	PCA	Piasa Commuter Airlines
+1029	PCL	Pacific Cal Air
+1030	PCQ	Pace Airlines
+1031	PCR	Pacair
+1032	PD	Porter Airlines, Inc.
+1033	PD (1)	Pem-Air Limited
+1034	PDA	Trans Southern Airways
+1035	PDQ	Antigua Paradise Airways
+1036	PE	Air Europe S.P.A.
+1037	PE (1)	People Express Airlines Inc.
+1038	PEA	Pearson Aircraft
+1039	PEQ	SkyLink Express Inc.
+1040	PER	Air Pennsylvania
+1041	PET	Petro Aviation Corp.
+1042	PFA	Pacificair
+1043	PFQ	Asia Pacific
+1044	PH	Polynesian Airlines Ltd.
+1045	PHL	Phillips Airlines
+1046	PHR	Pinehurst Airlines Inc.
+1047	PHX	Phoenix Airlines
+1048	PI	Piedmont Aviation Inc.
+1049	PIA	Pacific Island Airways
+1050	PIQ	Pacific International Airlines
+1051	PK	Pakistan International Airlines
+1052	PKQ	Skyworld Airlines Inc.
+1053	PL	Aero Peru
+1054	PLA	Planes Inc.
+1055	PLQ	Planet Airways
+1056	PLZ	Polar Airways Inc.
+1057	PM	Prescott Support Company, Inc.
+1058	PMA	Pacific Missionary Aviation
+1059	PMT	Pilgrim Aviation & Airlines
+1060	PN	Pan American Airways Corp.
+1061	PNM	Panama Aviation
+1062	PNQ	Panagra Airways
+1063	PNR	Pioneer Airways
+1064	PNS	Pine State Airlines
+1065	PO	Polar Air Cargo Airways
+1066	POA	Potomac Air
+1067	POC	Pocono Airlines Inc.
+1068	POL	Polar International
+1069	POM	Pompano Airways
+1070	PON	Ponderosa Aviation Inc.
+1071	POQ	Polyot Airlines
+1072	PP	Jet Aviation Business Jets AG
+1073	PPQ	Propair
+1074	PR	Philippine Airlines Inc.
+1075	PRA	Princeton Aviation Corp
+1076	PRD	Paradise Island Airlines
+1077	PRM	Prime Air Inc.
+1078	PRN	Puerto Rico Intl Airlines
+1079	PRO	Sundance Airlines
+1080	PRP	Propheter Aviation
+1081	PRQ	Florida West Airlines Inc.
+1082	PRR	Pro Air Services
+1083	PS	Pacific Southwest Airlines
+1084	PSA	P.S. Air Freight Inc.
+1085	PT	Capital Cargo International
+1086	PTQ	Flight International
+1087	PU	Primeras Lineas Uruguays For International
+1088	PUQ	Aeropuma
+1089	PV	Eastern Provincial Airways
+1090	PVA	Precision Valley Aviation
+1091	PW	Pacific Western Airlines
+1092	PY	Surinam Airways Limited
+1093	PZ	Lineas Aereas Paraguayas
+1094	Q2	Zambia Airways Corp.
+1095	Q4	Master Top Linhas Aereas, Ltda.
+1096	Q5	40-Mile Air
+1097	Q7	Sobelair
+1098	QB	Inter-Quebec (Intair)
+1099	QD	Grand Airways Inc.
+1100	QF	Qantas Airways Ltd.
+1101	QG	Sky West Aviation Inc.
+1102	QH	Air Florida Inc.
+1103	QK	Jazz Aviation LP
+1104	QN	Royal Air
+1105	QO	Aeromexpress
+1106	QOZ	Bar Harbor Airways
+1107	QQ	Reno Air Inc.
+1108	QR	Qatar Airways (Q.C.S.C)
+1109	QS	Travel Service, a.s.
+1110	QS (1)	Northeastern International Airways
+1111	QT	Transportes Aereos Mercantiles Panamericanos S.A
+1112	QTQ	Aer Turas Teoranta
+1113	QWE	Qwest Commuter
+1114	QX	Horizon Air
+1115	R3	Air Company Yakutia
+1116	RAL	Royal-Air Ltd.
+1117	RAN	Pan Am Express
+1118	RAQ	Arista International Airlines Inc.
+1119	RAY	Royale Airlines Inc.
+1120	RB	Syrian Arab Airlines
+1121	RC	Republic Airlines Inc.
+1122	RCA	Mid-South Aviation Inc. (1)
+1123	RD	Ryan International Airlines
+1124	RD (1)	Airlift International Inc.
+1125	RDR	Rader Aviation
+1126	RDW	Redwing Airways
+1127	REA	Realwest Airlines
+1128	RED	Aerosun International Airlines Inc.
+1129	REQ	Renown Aviation
+1130	RES	Resort Airlines Inc.
+1131	RG	Varig S. A.
+1132	RGQ	Regency Air
+1133	RHA	Royal Hawaiian Airways Inc.
+1134	RIA	Trump Air
+1135	RIC	Richardson Aviation
+1136	RID	Indiana Airways Inc. (Reid
+1137	RIO	Rio Airways Inc.
+1138	RIQ	Rich International Airways
+1139	RIV	Riverside Air Service
+1140	RJ	Alia-(The) Royal Jordanian
+1141	RJS	Michigan Airways Inc.
+1142	RK	Air Afrique
+1143	RL	UltrAir
+1144	RL (1)	Aerolineas Nicaraguenses
+1145	RLQ	Reliant Airlines
+1146	RMH	Rocky Mountain Helicopters
+1147	RMV	Ram Aviation
+1148	RNQ	Mytravel Airways
+1149	RO	Tarom Romanian Air Transpor
+1150	ROA	Royal West Airways Inc.
+1151	ROE	Roederer Aviation Inc.
+1152	ROQ	Aero Uruguay (1)
+1153	ROS	Great Western Airlines Inc.
+1154	ROY	Royal American Airways Inc.
+1155	RP	Chautauqua Airlines Inc.
+1156	RRT	Air Freight Express
+1157	RSC	Resort Commuter
+1158	RSQ	Aerotransportes Entre Rios
+1159	RSV	Air-Serve
+1160	RTQ	Aerotour Dominicano Cxa
+1161	RU	AirBridgeCargo Airlines Limited
+1162	RV	Reeve Aleutian Airways Inc.
+1163	RVA	Reeves Air
+1164	RVQ	Reeve Air Alaska, LLC
+1165	RWG	Air Rovers Inc.
+1166	RY	Redcoat Air Cargo Limited
+1167	RZZ	Aeromech Inc.
+1168	S3	Santa Barbara Airlines, C.A
+1169	S4	Sata Internacional
+1170	S5	Shuttle America Corp.
+1171	S6	Star Air A/S
+1172	S6 (1)	Mountain Bird/Salmon Air
+1173	SA	South African Airways
+1174	SAC	Sundorph Aeronautical Corp.
+1175	SAH	Sea Air Shuttle
+1176	SAI	Seair Alaska Airlines Inc.
+1177	SAJ	Sajen Air Inc.
+1178	SAL	Sallee's Aviation
+1179	SAM	Samoan Airlines Inc.
+1180	SAQ	Southern Air Transport Inc.
+1181	SAS	Air Cortez International
+1182	SAX	Air Americana
+1183	SBA	Saber Aviation Inc.
+1184	SBN	Suburban Airlines
+1185	SBQ	Skyjet S.A.
+1186	SCN	Scott Aviation
+1187	SCO	Seaco Airlines Inc.
+1188	SCT	Skyline Airlines
+1189	SCY	South Coast Airways
+1190	SDQ	St. Lucia Airways Limited
+1191	SE	XL Airways France
+1192	SE (1)	Das Air Cargo
+1193	SEB	Seaborne Aviation
+1194	SEG	Seagull Air Service
+1195	SEM	Semo Aviation Inc.
+1196	SEP	Southern Express Airways
+1197	SEQ	Sky Service F.B.O.
+1198	SER	Service Aviation Inc.
+1199	SFI	Stahmannfarms Inc.
+1200	SFO	Sfo Helicopter Airlines Inc.
+1201	SFQ	Pacific International Airlines Inc.
+1202	SFQ (1)	Southern Frontier Air Trans
+1203	SFS	Sierra Flite Service Inc.
+1204	SG	Jetsgo
+1205	SH	Servicio Aereo De Honduras
+1206	SHS	Shasta Air Inc.
+1207	SHV	Shavano Air Inc.
+1208	SI	Sierra Pacific Airlines
+1209	SI (1)	Jet America Airlines Inc.
+1210	SIA	Silver State Airlines
+1211	SIQ	Premiair
+1212	SIQ (1)	Scanair
+1213	SJA	San Juan Airlines Inc.
+1214	SJQ	Skycharter (Malton) Ltd.
+1215	SK	Scandinavian Airlines Sys.
+1216	SKI	Sunbird Inc.
+1217	SKJ	Sky-Jet
+1218	SKL	Bas Airlines
+1219	SKM	Scheduled Skyways
+1220	SKS	Silver Kris Services Ltd.
+1221	SKT	Skytrain
+1222	SLO	Slocum Air Inc.
+1223	SLQ	Sky King Inc.
+1224	SLR	Salair
+1225	SLZ	Southeast Airlines Inc.
+1226	SM	Sunworld International Airlines
+1227	SMC	Stopher Mechanical Inc.
+1228	SMO	Samoa Aviation Inc.
+1229	SMQ	Serv. Aerolineas Mexicanas
+1230	SN	Brussels Airlines N.V.
+1231	SN (1)	Sabena Belgian World Air.
+1232	SNA	Aviation Associates
+1233	SNB	Ccair
+1234	SNC	Gelco Courier Services Inc.
+1235	SNE	Shawnee Airlines
+1236	SNK	Spernak Airways Inc.
+1237	SNV	Sierra Nevada Airways
+1238	SO	Swiss World Airways
+1239	SOA	Mall Airways Inc.
+1240	SOE	Sky One Express
+1241	SOL	Soonair Lines Inc.
+1242	SOP	South Pacific Island Airway
+1243	SPF	Springfield Air Service
+1244	SPG	Springdale Air
+1245	SPH	Spirit Helicopter
+1246	SPQ	Sun Pacific International
+1247	SPR	Sportsman Flying Service
+1248	SQ	Singapore Airlines Ltd.
+1249	SR	Swissair Transport Co. Ltd.
+1250	SRA	Star Aviation
+1251	SRL	Sterling Air Service
+1252	SS	Corsair International
+1253	SSA	S. S. Airways Inc.
+1254	SSP	Southern Seaplane
+1255	SSQ	Superior Airways Limited
+1256	SSS	Sierra Express Inc.
+1257	SST	Seaplane Shuttle Transport
+1258	ST	Belize Airways Limited
+1259	STA	State Airlines Inc.
+1260	STF	Trans East International
+1261	STG	Sedalia Marshall Boonvl Stg
+1262	STQ	Skycraft Air Transport Inc.
+1263	STR	Star Aviation Corporation
+1264	STW	Stateswest Airlines
+1265	STZ	Air America Inc.
+1266	SU	Aeroflot Russian Airlines
+1267	SUA	Sunshine Airlines
+1268	SUI	Sun International Airways
+1269	SUT	Sunbelt
+1270	SUX	Sunair Express LLC
+1271	SV	Saudi Arabian Airlines Corp
+1272	SVL	Sun Valley Airlines
+1273	SVW	Global Jet Luxembourg, Sa
+1274	SWA	Sunwest Airlines
+1275	SWT	Swift Aire Lines Inc.
+1276	SX	Skybus Airlines, Inc.
+1277	SX (1)	Aeroejecutivo S.A.
+1278	SXP	Sierra Expressway
+1279	SY	Sun Country Airlines d/b/a MN Airlines
+1280	SYB	Skybus Express Airlines
+1281	SYM	Skymaster
+1282	SZQ	Aerolineas El Salvador S A
+1283	T3	Tristar Airlines Inc.
+1284	T9	TransMeridian Airlines
+1285	TA	Taca International Airlines
+1286	TAC	Air Colorado
+1287	TAF	Tri Air Freight
+1288	TAL	Tejas Airlines Inc.
+1289	TAQ	Taquan Air Service
+1290	TAS	Yosemite Airlines Inc.
+1291	TAT	Talarik Creek Air Taxi
+1292	TB	TUI Airlines Belgium N.V. d/b/a Jetairfly
+1293	TB (1)	USAir Shuttle
+1294	TBQ	Triair Bermuda Flt Operations
+1295	TCA	Trans Catalina Airlines
+1296	TCE	Oceanair Line
+1297	TCI	Trans California Airlines
+1298	TCL	Trans-Central Airlines Inc.
+1299	TCO	Trans-Colorado Airlines
+1300	TCQ	Express.Net Airlines
+1301	TDQ	Venexcargo
+1302	TDQ (1)	Transcarga
+1303	TEN	Tennessee Airways Inc.
+1304	TER	Terre Haute Air Commuter
+1305	TFQ	Trans International Airlines Inc.
+1306	TFZ	Tri-State Airlines Inc.
+1307	TG	Thai Airways International Ltd.
+1308	TGO	Trans Air Cargo Inc.
+1309	TGQ	Tranps Aereos Guatemaltecos
+1310	TH	Transmile Air Service
+1311	THA	Tropical Helicopter Airways
+1312	THO	Thorson Aviation
+1313	THQ	T-Bird Air Inc.
+1314	TIA	Trans Air Inc.
+1315	TIE	Trans International Express
+1316	TIQ	Tyrolean Jet Service
+1317	TIS	Skyfreight
+1318	TJ	Jet Charter Service Inc.
+1319	TK	Turk Hava Yollari A.O.
+1320	TKQ	Trans-Air-Link Corporation
+1321	TLQ	Trans-Mediterranean Airways
+1322	TMA	Trans Mo Airlines
+1323	TN	Air Tahiti Nui
+1324	TNQ	Emery Worldwide Airlines
+1325	TNS	Transtate Aviation
+1326	TP	Tap-Portuguese Airlines
+1327	TPQ	Aerial Transit Company
+1328	TQQ	Taca Peru
+1329	TR	Transbrasil S.A.
+1330	TRA	Aeromexico Travel
+1331	TRI	Great Plains Airlines Inc.
+1332	TRO	Air Molakai
+1333	TRP	Trans Pennsylvania Airlines
+1334	TRQ	Blue Scandinavia Ab
+1335	TRR	Territorial Airlines
+1336	TS	Air Transat
+1337	TSF	American Central Airlines
+1338	TSI	Trans Sierra Airlines Inc.
+1339	TSQ	TPI International Airways
+1340	TTM	The Time Machine
+1341	TUL	Tulsair Beechcraft Inc.
+1342	TUR	Turner Aire
+1343	TV	Haiti Trans Air
+1344	TV (1)	Transamerica Airlines Inc.
+1345	TVL	Travelair
+1346	TW	Trans World Airways LLC
+1347	TWA	Trans Western Airlines Utah
+1348	TWE	Trans World Express
+1349	TX	Soc.Nouvelle Air Guadeloupe
+1350	TX (1)	Transportes Aereos Nacional
+1351	TXA	Texas National Airlines
+1352	TXE	Trans Air (Hawaii)
+1353	TXQ	British Caribbean Airways
+1354	TXY	Texas Airways
+1355	TYE	Temsco Airlines
+1356	TZ	ATA Airlines d/b/a ATA
+1357	TZQ	First Choice Airways
+1358	U2	UFS Inc.
+1359	U5	USA 3000 Airlines
+1360	U7	USA Jet Airlines Inc.
+1361	UA	United Air Lines Inc.
+1362	UAI	Universal Airways Inc.
+1363	UC	Ladeco
+1364	UD	Fast Air Carrier Ltd.
+1365	UH	US Helicopter Corporation
+1366	UMQ	Air Manila Inc.
+1367	UN	Transaero Airlines
+1368	UNQ	Overseas National Airways
+1369	UP	Bahamasair Holding Limited
+1370	UR	Empire Airlines Inc. (1)
+1371	URQ	Aero Uruguay
+1372	US	US Airways Inc. (Merged with America West 9/05. Reporting for both starting 10/07.)
+1373	USA	Air U.S.
+1374	UT	Union De Transports Aeriens
+1375	UTQ	Universal Airlines Inc.
+1376	UX	Air Europa
+1377	UX (1)	Air Illinois Inc.
+1378	UYQ	Aerolineas Uruguayas S.A.
+1379	V4	Vensecar International
+1380	V5	J.D.Valenciana De Aviation
+1381	V8	Iliamna Air Taxi
+1382	V9	Eagle Airlines
+1383	VA	Virgin Blue International Airlines t/a V Australia
+1384	VA (1)	Venezuelan International Airways
+1385	VAG	Vagabond Aviation Inc.
+1386	VAQ	Vacationair
+1387	VAS	Valley Air Services
+1388	VB	Aeroenlaces Nacionales, S.A. de C.V. d/b/a VivaAerobus
+1389	VB (1)	Pacific Express
+1390	VC	Servicios Avensa
+1391	VCQ	Victory Air Transport Inc.
+1392	VE	Aerovias Venezolanas-Avensa
+1393	VER	Britt Airlines Inc.
+1394	VEZ	Valdez Airlines
+1395	VH	Aeropostal Alas De Venezuel
+1396	VI	Vieques Air Link Inc.
+1397	VIG	Viking Express
+1398	VIN	Vale International Airlines
+1399	VIQ	Volga-Dnepr Airlines
+1400	VIQ (1)	Viscount Air Service Inc.
+1401	VIS	Virgin Islands Seaplane
+1402	VJT	VistaJet Limited
+1403	VK	Air Tungaru Corporation
+1404	VL	Mid-South Aviation Inc.
+1405	VLA	Village Aviation
+1406	VLY	Valley Airlines
+1407	VOQ	Avalon Aviation Ltd.
+1408	VP	Viacao Aerea Sao Paulo
+1409	VQ	Vintage Props & Jets Inc.
+1410	VR	Transportes Aereos De Cabo
+1411	VS	Virgin Atlantic Airways
+1412	VSA	VistaJet Luftfahrtunternehmen GmbH
+1413	VV	Aerosvit Ukranian Airlines
+1414	VV (1)	Challenge Air Transport Inc.
+1415	VV (2)	Challenge Air International Inc.
+1416	VW	Transportes Aeromar S.A de C.V
+1417	VX	Virgin America
+1418	VX (1)	Aces Airlines
+1419	VY	Highland Express Airways
+1420	W3	Arik Air International
+1421	W4	Mn Aviation, Inc.
+1422	W7	Western Pacific Airlines
+1423	W8	Cargojet Airways Ltd.
+1424	W9	Eastwind Airlines Inc.
+1425	WA	Worldwide Airlines Services
+1426	WA (1)	Western Air Lines Inc.
+1427	WAC	Air East Airlines
+1428	WAI	Wise Airlines Inc.
+1429	WAP	Arrow Panama
+1430	WAQ	Air Charter Systems (Acs)
+1431	WAR	Waring Air
+1432	WAW	Westward Airways Inc.
+1433	WC	Wien Air Alaska Inc.
+1434	WCA	Walker's International
+1435	WCI	Mountainwest Airlines
+1436	WD	Halisa Air
+1437	WDQ	Wardair Canada Inc.
+1438	WE	Centurion Cargo Inc.
+1439	WEB	Southeast Alaska Airlines
+1440	WEQ	Aero-Services-Corporate
+1441	WES	Western Star Airlines Inc.
+1442	WET	Western Charter Inc.
+1443	WFS	Wheeler Airlines
+1444	WFT	Westflight Aviation
+1445	WG	Sunwing Airlines Inc.
+1446	WGL	Wrangell Air Service
+1447	WGQ	Gateway Aviation Limited
+1448	WI	Tradewinds Airlines
+1449	WIA	Wisc Air
+1450	WIL	Will's Air
+1451	WIR	Williams Air Inc.
+1452	WL	World Air Network
+1453	WLH	Welch Aviation
+1454	WLQ	Worldwide Airlines Inc.
+1455	WM	Windward Islands Airways
+1456	WN	Southwest Airlines Co.
+1457	WNG	Wings Airways
+1458	WNQ	Winair Inc.
+1459	WO	World Airways Inc.
+1460	WP	Island Air Hawaii
+1461	WRA	Wra Inc.
+1462	WRD	Ward Air
+1463	WRT	Wright Airlines Inc.
+1464	WS	Westjet
+1465	WS (1)	Suncoast Airlines Inc.
+1466	WSK	AAR Western Skyways
+1467	WST	West Isle Air
+1468	WSU	Mission Air
+1469	WT	Nigeria Airways Ltd.
+1470	WTA	Westates Airlines
+1471	WV	Air Greco, Inc., d/b/a Wings Air
+1472	WV (1)	Air South Inc. (1)
+1473	WWI	Wings West Airlines
+1474	WWQ	Worldways Canada Ltd.
+1475	X4	Air Excursions LLC
+1476	X9	Omni Air Express
+1477	XAA	Aero Union Corp
+1478	XAB	Air Polynesia d/b/a DHL Cargo
+1479	XAC	Air Express International Airlines
+1480	XAE	Amerford Airways Inc.
+1481	XAF	Astro-Wing Airlines Inc.
+1482	XAG	Ball Brothers Inc.
+1483	XAH	Hawaii Pacific Air
+1484	XAI	Burlington Northern Inc.
+1485	XAJ	Central American International
+1486	XAK	Century Airlines Inc.
+1487	XAM	Cohlmia Aviation
+1488	XAO	Dallas Flight Center
+1489	XAQ	Cam Air International Inc.
+1490	XAR	Jet Way Inc.
+1491	XAS	Klondike Air Inc.
+1492	XAT	Michigan Peninsula Airways
+1493	XAU	Flight Line Inc.
+1494	XAY	Pat Air
+1495	XAZ	Purolator Sky Courier Inc.
+1496	XBC	Jet East Inc.
+1497	XBF	WTC Airlines
+1498	XBH	Profit Airlines Inc.
+1499	XBI	CF Air Freight
+1500	XBJ	International Air Service
+1501	XBM	Phh Air Inc.
+1502	XBP	Circle Airfreight Corp.
+1503	XBQ	Aeronaves De Puerto Rico
+1504	XBR	Allstates Air Cargo Inc.
+1505	XBT	Pacific Alaska Airlines Inc.
+1506	XBV	Nal Inc.
+1507	XBX	Icb International Airlines
+1508	XBZ	Air Natl Aircraft Sal & Ser
+1509	XC	Air Caribbean (1)
+1510	XCA	Hawkins And Powers Aviation
+1511	XDA	Pacific Air Express Inc.
+1512	XDC	Hemisphere Air Charter
+1513	XDD	International Parcel Express Inc.
+1514	XDE	Air Train Inc.
+1515	XDF	Salair Inc.
+1516	XDH	Kitty Hawk Air Cargo
+1517	XE	ExpressJet Airlines Inc. (1)
+1518	XF	Vladivostok Air
+1519	XJ	Mesaba Airlines
+1520	XK	Aerotal
+1521	XL	Lan Ecuador
+1522	XP	Casino Express
+1523	XPA	Express Air d/b/a Sunrise
+1524	XPE	Amira Air GmbH
+1525	XPQ	International Cargo Xpress
+1526	XV	Presidential Airways Inc.
+1527	XY	Munz Northern Airlines Inc.
+1528	XYZ	Airpac Inc.
+1529	Y2	Globespan Airways Limited d/b/a Flyglobespan
+1530	Y4	Concesionaria Vuela Compania De Aviacion SA de CV (Volaris)
+1531	Y7	Flyjet Limited d/b/a Silverjet
+1532	Y8	Yangtze River Express Airlines Company
+1533	YB	Trans Continental Airlines
+1534	YBQ	Yellow Bird Air
+1535	YM	Royal West Airlines
+1536	YR	Grand Canyon Airlines, Inc. d/b/a Grand Canyon Airlines d/b/a Scenic Airlines
+1537	YV	Mesa Airlines Inc.
+1538	YX	Republic Airlines
+1539	YX (1)	Midwest Airline, Inc.
+1540	Z3	PM Air, LLC
+1541	Z3 (1)	Promech
+1542	ZA	Accessair Holdings
+1543	ZAQ	Zas Airline Of Egypt
+1544	ZB	Monarch Airlines
+1545	ZE	Lineas Aereas Azteca
+1546	ZFZ	Mcphillips Flying Service
+1547	ZIA	Air New Mexico
+1548	ZK	Great Lakes Airlines
+1549	ZKQ	Zantop International
+1550	ZL	Affretair
+1551	ZMZ	Winnipesaukee Aviation Inc.
+1552	ZN	Key Airlines Inc.
+1553	ZO	Florida Express Inc.
+1554	ZP	Air St. Thomas
+1555	ZS	Hispaniola Airways
+1556	ZUQ	Zuliana De Aviacion
+1557	ZV	Air Midwest Inc.
+1558	ZW	Air Wisconsin Airlines Corp
+1559	ZX	Air Georgian
+1560	ZX (1)	Airbc Ltd.
+1561	ZY	Atlantic Gulf Airlines
+1562	ZYZ	Skyway Aviation Inc.
